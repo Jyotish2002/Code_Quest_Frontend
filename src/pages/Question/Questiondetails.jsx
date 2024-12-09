@@ -17,7 +17,7 @@ const Qustiondetails = () => {
     const user =useSelector((state)=>state.currentuserreducer)
     const location=useLocation()
     const navigate=useNavigate()
-    const url="https://nullclass-am8h.onrender.com/"
+    const url="https://code-quest-backend-31fz.onrender.com"
     const handlepostans=(e,answerlength)=>{
         e.preventDefault();
         if(user ===null){
