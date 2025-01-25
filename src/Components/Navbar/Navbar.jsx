@@ -68,7 +68,7 @@ export function Navbar({ handleslidein }) {
                 color="white"
               >
                 <Link
-                  to={`/Users/$user?.result?._id`}
+                  to={`/Users/${User?.result?._id}`}
                   style={{ color: "white", textDecoration: "none" }}
                 >
                   {User.result.name.charAt(0).toUpperCase()}

@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.9",
     "client": "file:",
+    "cloudinary": "^2.5.1",
     "copy-to-clipboard": "^3.3.3",
     "font-awesome": "^4.7.0",
     "font-awesome-icons": "^1.6.0",
